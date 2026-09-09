@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol is a set of rules that allows devices to communicate with each other correctly. I also learned that HTTP is an example of a networking protocol used between a web browser and a website.
 
 ---
 
@@ -59,7 +59,12 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When users around the world access the EpicReads website hosted in Finland, the internet sends data using packet switching. This means the website data is broken into small packets that may travel through different routes before reaching the user.
+
+The EpicReads server has an IP address, which acts like a unique address so devices on the internet know where to send requests. Communication between the user’s device and the server follows TCP/IP rules. IP helps deliver the packets to the correct destination, while TCP makes sure the packets arrive correctly and in the right order.
+
+When users open EpicReads in a web browser, HTTP or HTTPS is used to request and receive web pages. HTTPS is more secure because it encrypts the data exchanged between the user and the website.
+
 
 ---
 
@@ -102,18 +107,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML/CSS
+* JavaScript/React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python/Flask
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -142,7 +147,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the internet’s phonebook. It translates an easy-to-remember domain name, such as epicreads.com, into the server’s IP address so users do not need to remember numbers.
+
+For EpicReads, an A record should be used because the server uses an IPv4 address, 52.172.142.222. The A record connects epicreads.com to this IP address. DNS only maps the domain to the IP; the port 3000 is handled separately by the web server or application.
 
 ---
 
@@ -230,7 +237,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/gnA9Yrvm
 ```
 
 ---
@@ -239,7 +246,33 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🌐 Week 0 – DevOps Micro Internship: Internet & Networking
+
+I’ve completed Week 0 of my DevOps Micro Internship journey, where I learned some of the fundamental concepts behind networking, application architecture, DNS, and development tools.
+
+🤖 ChatGPT
+I learned how to write a clear prompt and use ChatGPT to simplify technical concepts. I explored networking protocols and learned that a protocol is a set of rules devices follow to communicate with each other.
+
+🌐 Internet & Networking
+I learned how websites can be accessed globally through concepts such as packet switching, IP addresses, TCP/IP, and HTTP/HTTPS. Packet switching breaks information into smaller packets, while TCP/IP helps deliver them correctly between devices.
+
+🏗️ App Architecture
+I explored the difference between two-tier and three-tier application architectures. A two-tier application connects the frontend directly to the database, while a three-tier architecture adds a backend layer between the frontend and database.
+
+🌍 DNS
+I learned that DNS works like the internet’s phonebook by translating domain names into IP addresses. I also learned that an A record is used to connect a domain name to an IPv4 address.
+
+💻 VS Code Setup
+I practiced using the integrated terminal in Visual Studio Code and ran basic PowerShell commands such as dir to view files and directories on my computer.
+ 
+Looking forward to building on these foundations as I continue learning DevOps! 🚀
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public:
+https://lnkd.in/gis89ZgM
+Start your DevOps journey:
+https://lnkd.in/g7pJEEeB
+
+#DevOps #DMI #Networking #CloudComputing #LearningJourney #VisualStudioCode #DNS
 
 ---
 
@@ -247,19 +280,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts and VS Code setup easy to understand. Creating the application architecture diagrams also helped me clearly see the difference between two-tier and three-tier applications.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+I found some networking terms, especially TCP/IP, packet switching, and DNS records, slightly difficult at first because I learned this long time ago. However, using simple examples reminded me and helped me understand them better.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to improve my understanding of DevOps concepts by doing more hands-on practice. I also want to become more confident using the GitHub commands instead of searching over the commands using ChatGPT or Google.
 
 ---
 

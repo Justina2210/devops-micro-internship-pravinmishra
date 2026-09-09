@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Justina Ng Ke Yu |
+| **LinkedIn** | [Justina Ng Ke Yu](www.linkedin.com/in/justina-ng22) |
+| **Location** | Kuala Lumpur, Malaysia |
+| **Background** | AI engineer and student |
+| **Goal** | Develop practical DevOps skills to complement my AI background and prepare for a career in AI/ML engineering. |
 
 ---
 
